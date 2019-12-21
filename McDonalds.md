@@ -49,3 +49,5 @@
     "套餐送\t麥香魚",
     "早餐\t加1元\t薯餅"
 ]
+# McDonald's
+###### tags: `AppData`
