@@ -1,6 +1,6 @@
-["//
-# McDonald's
-###### tags: `AppData`
+["//\
+# McDonald's\
+###### tags: `AppData`\
 ",
     "套餐送\t酥嫩雞翅",
     "*飲40送\t麥香魚",
